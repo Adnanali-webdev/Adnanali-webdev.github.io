@@ -13,7 +13,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://adnanali-webdev.github.io/.github.io/" target="_blank">
+    <a href="https://adnanali-webdev.github.io" target="_blank">
     <img src="/assests/demo-personal-portfolio-website.png">
   </a>
   </kbd>
@@ -29,7 +29,7 @@
 
 ## Installation & Deployment 📦
 - Clone the repository and modify the content of <b>index.html</b> according to your requirement.
-- Add or remove images from `adnanali-webdev.github.io/.github.io//assets/` directory as per your requirement.
+- Add or remove images from `adnanali-webdev.github.io/assets/` directory as per your requirement.
 - I highly recommend to use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to deploy the website the EASIEST WAY.
 - To deploy your website, first you need to create github repository with name `<your-github-username>.github.io`. Please don't give any other name.
 - Push the generated code to the `master` branch of this repository.
@@ -44,7 +44,7 @@
 ✔️ Contact Info\
 ✔️ Resume
 
-To view a live example, **[click here](https://adnanali-webdev.github.io/AdnanManiyar.github.io/)**
+To view a live example, **[click here](https://adnanali-webdev.github.io/)**
 
 ## Tools Used 🛠️
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
